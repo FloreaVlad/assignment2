@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user id="1">
+        <username>asd@yahoo.ro</username>
+        <password>asd</password>
+        <userType>USER</userType>
+        <name>asdawf</name>
+    </user>
+    <user id="2">
+        <username>dasd@yahoo.ro</username>
+        <password>dasd</password>
+        <userType>USER</userType>
+        <name>dasd</name>
+    </user>
+    <user id="3">
+        <username>dragos@yahoo.com</username>
+        <password>daian_dragos</password>
+        <userType>USER</userType>
+        <name>dragos daian</name>
+    </user>
+</users>

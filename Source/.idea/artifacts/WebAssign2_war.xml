@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebAssign2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebAssign2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WebAssign2:war exploded" />
+    </root>
+  </artifact>
+</component>

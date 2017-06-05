@@ -1,0 +1,11 @@
+mvc\POJO\Books.class
+mvc\Model\BookDTO.class
+mvc\POJO\Book.class
+mvc\View\ViewController.class
+mvc\Model\UserDTO.class
+mvc\POJO\Users.class
+mvc\POJO\User.class
+mvc\Controller\BookController.class
+mvc\Controller\UserController.class
+mvc\CSV\CsvFileWriter.class
+mvc\POJO\helper\IdAdapter.class

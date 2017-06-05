@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book id="1">
+        <name>Hitchhiker's guide to the galaxy</name>
+        <author>Douglas Adams</author>
+        <quantity>2</quantity>
+        <price>25</price>
+    </book>
+    <book id="2">
+        <name>Game of Thrones</name>
+        <author>George R. R. Martin</author>
+        <quantity>0</quantity>
+        <price>22</price>
+    </book>
+    <book id="3">
+        <name>The Old Man and the Sea</name>
+        <author>Ernest Hemingway</author>
+        <quantity>0</quantity>
+        <price>17</price>
+    </book>
+</books>
